@@ -1,0 +1,27 @@
+[
+   {
+      "question": "What is the syntax for a variable in Python?",
+      "choices": ["VariableName = value", "var VariableName = value", "VariableName(value)", "VariableName:value"],
+      "answer": 0
+   },
+   {
+      "question": "What is the correct way to print 'Hello, World!' in Python?",
+      "choices": ["print('Hello, World!')", "echo 'Hello, World!'", "System.out.println('Hello, World!');", "print 'Hello, World!'"],
+      "answer": 0
+   },
+   {
+      "question": "What is the Python function for converting a string to an integer?",
+      "choices": ["str_to_int()", "int()", "to_int()", "parse_int()"],
+      "answer": 1
+   },
+   {
+      "question": "What is the correct syntax for a function in Python?",
+      "choices": ["function function_name() { }", "def function_name() { }", "func function_name() { }", "function function_name { }"],
+      "answer": 1
+   },
+   {
+      "question": "What is the Python keyword for the loop's exit condition?",
+      "choices": ["continue", "break", "stop", "exit"],
+      "answer": 1
+   }
+]
